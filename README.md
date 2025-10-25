@@ -1,2 +1,2 @@
 # Interactive-Dashboard
-An interactive web-based dashboard was developed using R Shiny. The dashboard dynamically visualizes the Kenyan virome.
+An interactive web-based dashboard developed using R Shiny. The dashboard dynamically visualizes the Kenyan virome.
