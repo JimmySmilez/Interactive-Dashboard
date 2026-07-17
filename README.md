@@ -1,6 +1,6 @@
 # 🚦 Interactive Dashboard: Kenyan Human Gut Virome
 [![R Version](https://img.shields.io/badge/R-4.2%2B-blue?logo=R&logoColor=black)](https://www.r-project.org/)
-[![Shiny](https://img.shields.io/badge/Shiny-App-blue?style=for-the-badge&logo=shiny&logoColor=white)](https://https://shiny.posit.co/)
+[![Shiny](https://img.shields.io/badge/SHINY-APP-1765B7?style=for-the-badge&logo=shiny&logoColor=white)](https://shiny.posit.co/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 
