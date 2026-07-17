@@ -1,8 +1,7 @@
 # 🚦 Interactive Dashboard: Kenyan Human Gut Virome
-[![R Version](https://img.shields.io/badge/R-4.2%2B-blue?logo=R&logoColor=black)](https://www.r-project.org/)
-[![Shiny](https://img.shields.io/badge/SHINY-APP-1765B7?style=for-the-badge&logo=shiny&logoColor=white)](https://shiny.posit.co/)
+[![R Version](https://img.shields.io/badge/R-4.2%2B-1E88E5?style=for-the-badge&logo=R&logoColor=white)](https://www.r-project.org/)
+[![Shiny](https://img.shields.io/badge/Shiny-App-1765B7?style=for-the-badge&logo=shiny&logoColor=white)](https://shiny.posit.co/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
 
 An interactive web-based dashboard developed using **R Shiny** to dynamically visualize viral clusters and taxonomy within the Kenyan human gut virome.
 
