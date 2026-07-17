@@ -40,3 +40,7 @@ To run this dashboard on your own machine:
    ```r
    shiny::runApp('dashboard/')
 
+## 📝Citation
+Cite the KenyaViroCat Article:
+
+Nthuku, S., Mordecai, J., Babajide, A. A., Makoko, D., Sawadogo, Y., & Awe, O. I. (2026). The Kenyan Human Gut Virome Catalogue reveals extensive viral diversity and age-dependent community structure. *Scientific Reports.* [https://doi.org/10.1038/s41598-026-60183-9](https://doi.org/10.1038/s41598-026-60183-9)
